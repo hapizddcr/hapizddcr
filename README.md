@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h2 align="left">Hi 👋! My name is Hapizd Nuryadin</h2>
+<img src="https://raw.githubusercontent.com/hapizddcr/hapizddcr/output/ular.svg" alt="Snake animation" />
 <!--
 **hapizddcr/hapizddcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
